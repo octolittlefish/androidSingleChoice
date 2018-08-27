@@ -1,0 +1,4 @@
+#Sat Aug 25 18:47:11 CST 2018
+base.0=F\:\\pet\\pet\\MultiChoice-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=F\:\\pet\\pet\\MultiChoice-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

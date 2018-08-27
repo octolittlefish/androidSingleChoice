@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\pet\\pet\\MultiChoice-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "F:\\pet\\pet\\MultiChoice-master\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "F:\\pet\\pet\\MultiChoice-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\multi_select_menu.xml",
+        "source": "F:\\pet\\pet\\MultiChoice-master\\app\\src\\main\\res\\menu\\multi_select_menu.xml"
+    }
+]

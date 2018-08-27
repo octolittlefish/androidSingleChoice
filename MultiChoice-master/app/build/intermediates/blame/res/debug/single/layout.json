@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\pet\\pet\\MultiChoice-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pager_item_scantron.xml",
+        "source": "F:\\pet\\pet\\MultiChoice-master\\app\\src\\main\\res\\layout\\pager_item_scantron.xml"
+    },
+    {
+        "merged": "F:\\pet\\pet\\MultiChoice-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_option.xml",
+        "source": "F:\\pet\\pet\\MultiChoice-master\\app\\src\\main\\res\\layout\\list_item_option.xml"
+    },
+    {
+        "merged": "F:\\pet\\pet\\MultiChoice-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\pet\\pet\\MultiChoice-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\pet\\pet\\MultiChoice-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timer_pause_dialog.xml",
+        "source": "F:\\pet\\pet\\MultiChoice-master\\app\\src\\main\\res\\layout\\timer_pause_dialog.xml"
+    },
+    {
+        "merged": "F:\\pet\\pet\\MultiChoice-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_report_bar.xml",
+        "source": "F:\\pet\\pet\\MultiChoice-master\\app\\src\\main\\res\\layout\\view_report_bar.xml"
+    },
+    {
+        "merged": "F:\\pet\\pet\\MultiChoice-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_question_bar.xml",
+        "source": "F:\\pet\\pet\\MultiChoice-master\\app\\src\\main\\res\\layout\\view_question_bar.xml"
+    },
+    {
+        "merged": "F:\\pet\\pet\\MultiChoice-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_report.xml",
+        "source": "F:\\pet\\pet\\MultiChoice-master\\app\\src\\main\\res\\layout\\activity_report.xml"
+    },
+    {
+        "merged": "F:\\pet\\pet\\MultiChoice-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pager_item.xml",
+        "source": "F:\\pet\\pet\\MultiChoice-master\\app\\src\\main\\res\\layout\\pager_item.xml"
+    }
+]

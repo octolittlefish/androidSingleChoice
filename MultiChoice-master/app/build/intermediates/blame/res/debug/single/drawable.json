@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "F:\\pet\\pet\\MultiChoice-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_dialog_common_btn.xml",
+        "source": "F:\\pet\\pet\\MultiChoice-master\\app\\src\\main\\res\\drawable\\selector_dialog_common_btn.xml"
+    },
+    {
+        "merged": "F:\\pet\\pet\\MultiChoice-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bar_item_share.xml",
+        "source": "F:\\pet\\pet\\MultiChoice-master\\app\\src\\main\\res\\drawable\\selector_bar_item_share.xml"
+    },
+    {
+        "merged": "F:\\pet\\pet\\MultiChoice-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bar_item_time.xml",
+        "source": "F:\\pet\\pet\\MultiChoice-master\\app\\src\\main\\res\\drawable\\selector_bar_item_time.xml"
+    },
+    {
+        "merged": "F:\\pet\\pet\\MultiChoice-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_option_name.xml",
+        "source": "F:\\pet\\pet\\MultiChoice-master\\app\\src\\main\\res\\drawable\\selector_option_name.xml"
+    },
+    {
+        "merged": "F:\\pet\\pet\\MultiChoice-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bar_item_answercard.xml",
+        "source": "F:\\pet\\pet\\MultiChoice-master\\app\\src\\main\\res\\drawable\\selector_bar_item_answercard.xml"
+    },
+    {
+        "merged": "F:\\pet\\pet\\MultiChoice-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\conversation_item_background_read.xml",
+        "source": "F:\\pet\\pet\\MultiChoice-master\\app\\src\\main\\res\\drawable\\conversation_item_background_read.xml"
+    },
+    {
+        "merged": "F:\\pet\\pet\\MultiChoice-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_corners.xml",
+        "source": "F:\\pet\\pet\\MultiChoice-master\\app\\src\\main\\res\\drawable\\bg_corners.xml"
+    },
+    {
+        "merged": "F:\\pet\\pet\\MultiChoice-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bar_item_back.xml",
+        "source": "F:\\pet\\pet\\MultiChoice-master\\app\\src\\main\\res\\drawable\\selector_bar_item_back.xml"
+    },
+    {
+        "merged": "F:\\pet\\pet\\MultiChoice-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_dialog_bg_noborder.xml",
+        "source": "F:\\pet\\pet\\MultiChoice-master\\app\\src\\main\\res\\drawable\\shape_dialog_bg_noborder.xml"
+    },
+    {
+        "merged": "F:\\pet\\pet\\MultiChoice-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_bar_item_scratch.xml",
+        "source": "F:\\pet\\pet\\MultiChoice-master\\app\\src\\main\\res\\drawable\\selector_bar_item_scratch.xml"
+    },
+    {
+        "merged": "F:\\pet\\pet\\MultiChoice-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_transparent.xml",
+        "source": "F:\\pet\\pet\\MultiChoice-master\\app\\src\\main\\res\\drawable\\bg_transparent.xml"
+    }
+]
